@@ -1,0 +1,1 @@
+The pretrained machine learning model (KNN) for tumor segmentation is built with the 1347 negative ions as input features.
